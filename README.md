@@ -10,7 +10,6 @@
 <b>Packages:</b><br>
 <i>*Khuyến khích sử dụng Anaconda 3 tạo một environment mới tên "opencv" để cài tất cả packages như hình</i><br>
 <br>
-<img src="https://github.com/lecongnghi98/trafficsignrecognize/blob/master/static/image/indexguide0.png">
 <ul>
       <li>numpy 1.17.2</li>
      <li>matplotlib 3.1.1</li>
@@ -45,9 +44,7 @@ Sau khi chạy server thành công truy cập địa chỉ <a href="http://local
 <h2>Chức năng chính</h2>
 <b>Trang chủ</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhận diện biển báo từ ảnh môi trường<br><br>
-<img src="https://github.com/lecongnghi98/trafficsignrecognize/blob/master/static/image/demo.gif"><br>
 <b>Trang tra cứu biển báo</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tra cứu biển báo từ dữ liệu của ứng dụng<br><br>
 
-<img src="https://github.com/lecongnghi98/trafficsignrecognize/blob/master/static/image/demo1.gif"><br><br>
 # Traffic-Sign
