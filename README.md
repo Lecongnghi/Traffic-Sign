@@ -1,4 +1,4 @@
-# trafficsignrecognize
+# Trafficsignrecognize
 Đồ án nhận diện biển báo cấm đơn trong ảnh môi trường có sử dụng deep learning.<br>
 
 <h2>Yêu cầu:</h2>
@@ -47,4 +47,3 @@ Sau khi chạy server thành công truy cập địa chỉ <a href="http://local
 <b>Trang tra cứu biển báo</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tra cứu biển báo từ dữ liệu của ứng dụng<br><br>
 
-# Traffic-Sign
